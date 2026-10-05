@@ -1,11 +1,11 @@
 export const hero = {
   logo: '/images/hero/logo.svg',
-  avatar: '/images/hero/avatar.png',
+  avatar: '/images/hero/avatar.webp',
   productCard: '/images/hero/cat-house.webp',
-  videoCard: '/images/hero/video-card.png',
-  bottomLeft: '/images/hero/dog-left.png',
-  bottomCenter: '/images/hero/dog-center.png',
-  bottomRight: '/images/hero/cat-right.png',
+  videoCard: '/images/hero/video-card.webp',
+  bottomLeft: '/images/hero/dog-left.webp',
+  bottomCenter: '/images/hero/dog-center.webp',
+  bottomRight: '/images/hero/cat-right.webp',
 }
 
 /** Unsplash source ids, kept so other sizes can be downloaded later if needed. */
