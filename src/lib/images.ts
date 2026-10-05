@@ -1,7 +1,7 @@
 export const hero = {
   logo: '/images/hero/logo.svg',
   avatar: '/images/hero/avatar.png',
-  productCard: '/images/hero/cat-house.png',
+  productCard: '/images/hero/cat-house.webp',
   videoCard: '/images/hero/video-card.png',
   bottomLeft: '/images/hero/dog-left.png',
   bottomCenter: '/images/hero/dog-center.png',
