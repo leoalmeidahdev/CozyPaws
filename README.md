@@ -1,33 +1,33 @@
 # CozyPaws — Pet Shop
 
-Landing page for a pet shop with a continuous-scroll feel: smooth inertial scrolling, section colors that blend into each other, a pinned horizontal product shelf and 30 CSS/JS micro-animations.
+Landing page de um pet shop com sensação de rolagem contínua: scroll suave com inércia, cores que se misturam entre as seções, prateleira de produtos que corre na horizontal enquanto você desce a página e 30 microanimações em CSS e JavaScript.
 
-## Stack
+## Tecnologias
 
 - React 19 + TypeScript
 - Vite
 - Tailwind CSS 4
-- Lenis (smooth scroll)
-- Lucide icons
+- Lenis (scroll suave)
+- Ícones Lucide
 
-## Running locally
+## Como rodar localmente
 
 ```bash
 npm install
 npm run dev
 ```
 
-The site opens at http://localhost:5173.
+O site abre em http://localhost:5173.
 
-## Production build
+## Build de produção
 
 ```bash
 npm run build
 npm run preview
 ```
 
-Deployed on Vercel (`vercel.json` holds the build settings).
+Publicado na Vercel (as configurações de build estão no `vercel.json`).
 
 ---
 
-Developed by [Leonardo de Almeida Henrique](https://github.com/leoalmeidahdev).
+Desenvolvido por [Leonardo de Almeida Henrique](https://github.com/leoalmeidahdev).
