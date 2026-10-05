@@ -1,0 +1,12 @@
+# dependencies and build output
+node_modules
+dist
+
+# local tooling
+.claude
+.vercel
+*.log
+.DS_Store
+
+# files that are not part of the site
+*.zip
